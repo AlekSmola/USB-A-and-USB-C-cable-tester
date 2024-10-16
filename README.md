@@ -12,11 +12,11 @@ Meet a cable tester which will clearly show you what cable can really handle! In
 
 <div style="text-align:center">
 
-![Showcase 1](./product2.jpg)
+![Showcase 1](./showcase_v2.png)
 
 </div>
 
-*Fugure. Note that this is v1.0.0 with few bugs which were fixedin v2.0.0. Above images are of a v1.0.0 and were modified. These modification are not required when ordering v2.0.0*
+*Figure. Rendered v2.0.0 version.*
 
 </br>
 
@@ -24,13 +24,11 @@ Have you ever wondered what’s the difference between `USB 3.0` and `USB 3.1 Ge
 
 <div style="text-align:center">
 
-![Showcase 2](./product1.jpg)
+![Showcase 1](./product2.jpg)
 
 </div>
 
-*Fugure. Note that this is v1.0.0 with few bugs which were fixedin v2.0.0. Above images are of a v1.0.0 and were modified. These modification are not required when ordering v2.0.0*
-
-</br>
+*Figure. Note that this is v1.0.0 with few bugs which were fixed in v2.0.0. Above images are of a v1.0.0. Can you spot all the bugs and applied modifications? These modification are not required when ordering v2.0.0*
 
 
 ## Features
@@ -43,6 +41,16 @@ Have you ever wondered what’s the difference between `USB 3.0` and `USB 3.1 Ge
 ## Principle of operation 
 
 If given cable has physical conductor inside, it will close the circuit and the corresponding LED will light up.
+
+<div style="text-align:center">
+
+![Showcase 2](./product1.jpg)
+
+</div>
+
+*Figure. Note that this is v1.0.0 with few bugs which were fixed in v2.0.0. Above images are of a v1.0.0. Can you spot all the bugs and applied modifications? These modification are not required when ordering v2.0.0*
+
+</br>
 
 ## Documentation
 Everything what's in here: [https://github.com/petl/USB-C-cable-tester-C2C-caberQU/blob/main/documentation/v3/caberQU_manual_v3.2_compressed.pdf](https://github.com/petl/USB-C-cable-tester-C2C-caberQU/blob/main/documentation/v3/caberQU_manual_v3.2_compressed.pdf) with the difference of lack of built-in battery supply and addition of USB-A connector.
