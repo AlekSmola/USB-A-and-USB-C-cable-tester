@@ -4,28 +4,34 @@
 
 </div>
 
-Have you ever took a cable just to find out it does not transfer files or charger very slowly?
+Have you ever took a cable just to find out it does not transfer files or charge super slowly?
 
 I got a solution for that!
 
-<div style="text-align:center">
-
-![Showcase 1](./showcase1.png)
-
-</div>
-
-
-Meet a cable tester which will clearly show you what cable can really handle! In a world were we have some weirdness of dozens of cables with the same USB-C connector which can do so much things, it's hard to know for sure which cable can be a monitor cable and which will only power a desk lamp. 
-
-Have you ever wondered what’s the difference between USB 3.0 and USB 3.1 Gen 2 or USB 3.1 Gen 1 and USB 3.2 Gen 2? Well this device won’t help you, but will tell for sure if a given cable can reach speed defined by above standards.
+Meet a cable tester which will clearly show you what cable can really handle! In a world were we have some weirdness of dozens of cables with the same USB-C connector which can do so many things, it's hard to know for sure which cable can be a monitor cable and which will only power a desk lamp. 
 
 <div style="text-align:center">
 
-![Showcase 1](./showcase1.png)
+![Showcase 1](./product2.jpg)
 
 </div>
 
-*Above images are of a v1.0.0 and were modified. These modification are not required when ordering v2.0.0*
+*Fugure. Note that this is v1.0.0 with few bugs which were fixedin v2.0.0. Above images are of a v1.0.0 and were modified. These modification are not required when ordering v2.0.0*
+
+</br>
+
+Have you ever wondered what’s the difference between `USB 3.0` and `USB 3.1 Gen 2` or `USB 3.1 Gen 1` and `USB 3.2 Gen 2`? Well this device won’t help you, but will tell for sure if a given cable can reach speed defined by above standards.
+
+<div style="text-align:center">
+
+![Showcase 2](./product1.jpg)
+
+</div>
+
+*Fugure. Note that this is v1.0.0 with few bugs which were fixedin v2.0.0. Above images are of a v1.0.0 and were modified. These modification are not required when ordering v2.0.0*
+
+</br>
+
 
 ## Features
 - Shows if there is continuity between different USB pins, i.e. which standards cable supports;
@@ -75,9 +81,9 @@ I have assembled the board myself since it is only few components and I only nee
 ## Parts
 - 26x Any colour 0805 SMD LEDs, like these: [I bought orange](https://a.aliexpress.com/_EzzCGlx)
 
-- 26x Desired 0805 SMD resistors, like these: [remember that it is pack od 20pcs so buy two such packs!](https://a.aliexpress.com/_EQssAUh)
+- 26x Desired 0805 SMD resistors. I picked 2.2k Ohms. Most of the available solutions has these LEDs set up really bright, which make looking at board unpleasant. You may go with even higher value resistors. Like these: [remember that it is pack od 20pcs so buy two such packs!](https://a.aliexpress.com/_EQssAUh)
 
-- 2x Resistors 0805 5k1 Ohms for USB-C power connector, like these above [OPTIONAL if you don't USB-C for power]
+- 2x Resistors 0805 5.1k Ohms for USB-C power connector, like these above [OPTIONAL if you don't USB-C for power]
 
 - 3x USB-C connectors which can be soldered by hand with soldering iron (half pins are through-hole, other half requires removal of back cover of a connector or a use of soldering paste), like these: [R 24pin](https://www.aliexpress.com/item/1005007419369264.htm    ) (can be bought from more reputable sources like Mauser but then they cost more than the entire board assembled)[]. One connector is OPTIONAL if you power the board by soldering leads (from battery or whatnot)
 
